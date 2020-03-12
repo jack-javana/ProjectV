@@ -1,0 +1,7 @@
+displayName = Project V
+version = 1.0.0
+author = yum & FingerFig
+hideCode = true
+hideResources = true
+homepage = 
+buildIgnore= *.csproj, *.user, obj\*, bin\*, lib\*, .vs\*, *.gif, *.piskel, Unused\*, .vscode\*
