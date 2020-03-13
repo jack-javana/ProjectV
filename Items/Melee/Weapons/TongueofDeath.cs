@@ -4,9 +4,9 @@ using Terraria;
 using Microsoft.Xna.Framework;
 using Terraria.DataStructures;
 
-namespace ProjectV.Items.Melle
-{
-	public class TonguEofDeath : ModItem
+namespace ProjectV.Items.Melee.Weapons
+{ 
+	public class TongueofDeath : ModItem
 	{
 		public override void SetStaticDefaults()
 		{

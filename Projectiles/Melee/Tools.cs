@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace TutorialMod.Items
+namespace ProjectV.Projectiles.Melee
 {
     public class Tools : ModProjectile
     {

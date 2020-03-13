@@ -4,7 +4,7 @@ using Terraria;
 using Microsoft.Xna.Framework;
 using Terraria.DataStructures;
 
-namespace TutorialMod.Items
+namespace ProjectV.Items.Melee.Weapons
 {
 	public class TutorialMod : ModItem
 	{
