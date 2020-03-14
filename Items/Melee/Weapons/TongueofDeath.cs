@@ -20,7 +20,7 @@ namespace ProjectV.Items.Melee.Weapons
 			item.melee = true;
 			item.width = 34;
 			item.height = 34;
-			item.useTime = 8;
+			item.useTime = 20;
 			item.useAnimation = 20;
 			item.useStyle = 1;
 			item.knockBack = 6;
@@ -28,7 +28,9 @@ namespace ProjectV.Items.Melee.Weapons
 			item.rare = 3;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
-		}
+            item.shoot = mod.ProjectileType("Tools");
+            item.shootSpeed = 12f;
+        }
 
 		public override void AddRecipes()
 		{
